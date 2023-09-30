@@ -5,7 +5,7 @@
 /tmp
 /out-tsc
 /bazel-out
-/env/src/app.config.[a-z].ts
+src/env/app.config.dev.ts
 
 # Node
 /node_modules
